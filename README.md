@@ -4,7 +4,7 @@ In this simple PowerBi project, I created a data oriented dashboard to track the
 ## Project Objective
 Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across india.
 
-## Dataset Used :
+## Dataset Used 
 
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Details.csv
 
@@ -23,5 +23,9 @@ https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Orders.csv
 - present data of maximum sales on based on states
 - list top states where sales was higher than the others
 - display the percentage of items which were purchased more than the others
-- display the MOP(mode of payment) in a ch
+- display the MOP(mode of payment)
+
+## Dashboard Interaction
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/test%20file_pages-to-jpg-0001.jpg
+
 
