@@ -37,3 +37,6 @@ https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Orders.csv
 ## Dashboard Interaction
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/test%20file_pages-to-jpg-0001.jpg
 
+![test file_pages-to-jpg-0001](https://github.com/user-attachments/assets/075782c9-03b3-43e5-8663-11726472fb7b)
+
+
