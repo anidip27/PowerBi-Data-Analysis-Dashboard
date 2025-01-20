@@ -14,3 +14,7 @@ In this simple PowerBi project, I created a data oriented dashboard to track the
 
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Details.csv
 
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Orders.csv
+
+
+
