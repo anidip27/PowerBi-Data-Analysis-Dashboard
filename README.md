@@ -10,3 +10,7 @@ In this simple PowerBi project, I created a data oriented dashboard to track the
 
 4. used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
+## Dataset Used :
+
+https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Details.csv
+
