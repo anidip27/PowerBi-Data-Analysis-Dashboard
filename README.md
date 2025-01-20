@@ -25,7 +25,15 @@ https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Orders.csv
 - display the percentage of items which were purchased more than the others
 - display the MOP(mode of payment)
 
+
+## Process
+
+-  verify data for any missing values and anomalies, and sort out the same.
+- made sure data is consistent and clean with respect to data type, data format and values used.
+- created stack chart and graphs according to questions asked.
+- merge all data tables into one dashboard and apply slicer to make dynamic.
+
+
 ## Dashboard Interaction
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/test%20file_pages-to-jpg-0001.jpg
-
 
