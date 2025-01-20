@@ -40,3 +40,12 @@ https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/test%20fil
 ![test file_pages-to-jpg-0001](https://github.com/user-attachments/assets/075782c9-03b3-43e5-8663-11726472fb7b)
 
 
+## Project Conclusion 
+
+1. created interactive dashboard to track and analyze online sales data.
+
+2. used complex parameters to drill down in worksheet and customization using filters and slicers.
+
+3. created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+
+4. used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
