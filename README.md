@@ -16,5 +16,18 @@ https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Details.cs
 
 https://github.com/anidip27/PowerBi-Data-Analysis-Dashboard/blob/main/Orders.csv
 
-
+## QUESTIONS (KPIs)
+- compare the sales and orders using single chart
+- compare the margin Sum of Amount by State
+- compare the margin Sum of Quantity by Payment Mode
+- compare the margin  Sum of Quantity by Category
+- compare the margin  Sum of Sum of Amount by Customer Name
+- compare the margin  Sum of Sum of Profit by Sub-Category
+- compare the margin  Sum of Profit By Month
+- make a Quartely basis data visualisation dashboard to track sales for Q1, Q2, Q3, and Q4
+- make a list of all states and specific data presentation of sales in that state at Quarterly basis.
+- present data of maximum sales on based on states
+- list top states where sales was higher than the others
+- display the percentage of items which were purchased more than the others
+- display the MOP(mode of payment) in a ch
 
