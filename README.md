@@ -1,5 +1,5 @@
 # PowerBi-Data-Analysis-Dashboard on Ecommerce Store Sales Data 
-# Project Objective
+## Project Objective
 In this simple PowerBi project, I created a data oriented dashboard to track the sales of an Ecommerce store across India and presented them in Visual data for more detailed understanding.
 
 1. created interactive dashboard to track and analyze online sales data.
